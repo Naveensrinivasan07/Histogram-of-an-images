@@ -63,10 +63,12 @@ plt.xlim([0, 256])
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![8a89ed62-7b30-4b42-a7df-bc425921af43](https://github.com/user-attachments/assets/3a1fb141-bfce-415c-a09c-ea2cd7cf2571)
+![c1c68ad1-2755-4321-acc4-14a94f807b60](https://github.com/user-attachments/assets/d0c69295-851c-4996-9976-d6588fb3eec1)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
-![0c871302-beea-4a16-8ec5-ff41c84343b1](https://github.com/user-attachments/assets/20693939-48e1-4f0f-bfd1-1d3bc7669e3b)
+![87ae7b1d-53b7-466e-8588-a1ad8cf7e620](https://github.com/user-attachments/assets/1e712c45-b092-4f64-8cf0-53f848c496ed)
+
 
 
 
